@@ -1,0 +1,31 @@
+{
+  "name": "portfolio-simple",
+  "version": "1.0.0",
+  "description": "Portfolio personal",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tjhonnark/PortfolioSimple.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Tjhonnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tjhonnark/PortfolioSimple/issues"
+  },
+  "homepage": "https://github.com/Tjhonnark/PortfolioSimple#readme",
+  "dependencies": {
+    "bootswatch": "^5.1.3",
+    "next": "^12.1.3",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
