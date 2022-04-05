@@ -12,12 +12,14 @@ class MyDocument extends Document {
             <Html>
                 <Head>
                     <title>My Portfolio</title>
-                    <meta property="og:title" content="Portfolio" />
+                    <meta property="og:title" content="MyPortfolio Tjhonnar" />
                     <meta property="og:description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia." />
                     <meta property="og:type" content="website" />
                     <meta property="og:url" content="https://tjhonnar.ga" />
                     <meta property="og:image" content="https://tjhonnar.ga/image0.jpg" />
-                    <meta name="twitter:card" content="summary"/>
+                    <meta name="twitter:card" content="summary_large_image"/>
+                    <meta name="twitter:title" content="MyPortfolio Tjhonnar" />
+                    <meta name="twitter:description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia." />
                     <meta name="twitter:creator" content="@Roderix78" />
                     <meta property="og:url" content="https://tjhonnar.ga" />
                     <link rel="icon" href="/favicon.ico"/>
