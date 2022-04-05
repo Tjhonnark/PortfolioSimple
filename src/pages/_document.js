@@ -15,7 +15,7 @@ class MyDocument extends Document {
                     <meta name="description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia." />
 
                     {/* FACEBOOK */}
-                    <meta property="og:title" content="MyPortfolio Tjhonnar" />
+                    <meta property="og:title" content="MyPortfolio" />
                     <meta property="og:description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia." />
                     <meta property="og:type" content="website" />
                     <meta property="og:url" content="https://tjhonnar.ga" />
@@ -23,14 +23,10 @@ class MyDocument extends Document {
 
                     {/* TWITTER */}
                     <meta name="twitter:card" content="summary_large_image"/>
-                    <meta name="twitter:title" content="MyPortfolio Tjhonnar"/>
-                    <meta name="twitter:description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia."/>
-                    <meta name="twitter:site" content="@Roderix78"/>
-                    <meta name="twitter:image" content="https://tjhonnar.ga/image0.jpg"/>
+                    <meta name="twitter:title" content="MyPortfolio"/>
                     <meta name="twitter:creator" content="@Roderix78"/>
 
                     {/* APPLE */}
-                    <meta name="apple-mobile-web-app-title" content="MyPortfolio Tjhonnar" />
 
                     <link rel="icon" href="/favicon.ico"/>
 
