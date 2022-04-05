@@ -1,4 +1,3 @@
-import '../styles/index.scss';
 import React, {useEffect} from 'react';
 import {useRouter, Router} from 'next/router';
 import 'bootswatch/dist/darkly/bootstrap.min.css';
