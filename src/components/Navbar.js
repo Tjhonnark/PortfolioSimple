@@ -13,7 +13,7 @@ export default function Navbar(){
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav col-md-12">
                         <li className="nav-item">
-                            <Link href="/github">                
+                            <Link href="https://github.com/tjhonnark">                
                                 <a className="nav-link">GitHub</a>
                             </Link>
                         </li>
