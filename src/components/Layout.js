@@ -11,6 +11,7 @@ export default function Layout(props){
             <meta property="og:type" content="website" />
             <meta property="og:url" content="https://tjhonnar.ga" />
             <meta property="og:image" content="https://tjhonnar.ga/image0.jpg" />
+            <meta name="twitter:card" content="summary"/>
         </Head>
         <Navbar/>
         <main className='container py-4'>
