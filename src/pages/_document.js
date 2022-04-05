@@ -12,17 +12,22 @@ class MyDocument extends Document {
             <Html>
                 <Head>
                     <title>My Portfolio</title>
-                    <meta property="og:title" content="MyPortfolio Tjhonnar" />
+
+                    {/* FACEBOOK */}
+                    {/* <meta property="og:title" content="MyPortfolio Tjhonnar" />
                     <meta property="og:description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia." />
                     <meta property="og:type" content="website" />
                     <meta property="og:url" content="https://tjhonnar.ga" />
-                    <meta property="og:image" content="https://tjhonnar.ga/image0.jpg" />
-                    {/* Twitter */}
+                    <meta property="og:image" content="https://tjhonnar.ga/image0.jpg" /> */}
+
+                    {/* TWITTER */}
                     <meta name="twitter:card" content="summary_large_image"/>
-                    <meta name="twitter:title" content="MyPortfolio Tjhonnar" />
-                    <meta property="twitter:description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia." />
-                    <meta name="twitter:site" content="@nytimesbits" />
-                    <meta name="twitter:creator" content="@Roderix78" />
+                    <meta name="twitter:title" content="MyPortfolio Tjhonnar"/>
+                    <meta name="twitter:description" content="Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia."/>
+                    <meta name="twitter:site" content="@Roderix78"/>
+                    <meta name="twitter:image" content="https://tjhonnar.ga/image0.jpg"/>
+                    <meta name="twitter:creator" content="@Roderix78"/>
+
                     <link rel="icon" href="/favicon.ico"/>
 
                     <script
