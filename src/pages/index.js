@@ -13,7 +13,7 @@ export default function Index(){
                             </div>
                             <div className="col-md-8">
                                 <h1>Rodrigo García</h1>
-                                <h3>Developer Junior</h3>
+                                <h3>Junior Developer</h3>
                                 <p>Desarrollador de sitios web y landing page. Con capacidades de resolución de conflictos y de aprender nuevas tecnologías para estar siempre a la vanguardia.</p>
                                 <a href="/hireme">Hire Me</a>
                             </div>
