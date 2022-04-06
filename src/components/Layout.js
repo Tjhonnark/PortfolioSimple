@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import Navbar from './Navbar';
 
 export default function Layout(props){
@@ -17,8 +18,6 @@ export default function Layout(props){
                 <meta name="twitter:card" content="summary_large_image"/>
                 <meta name="twitter:title" content="MyPortfolio"/>
                 <meta name="twitter:creator" content="@Roderix78"/>
-
-                {/* APPLE */}
 
                 <link rel="icon" href="/favicon.ico"/>
             </Head>
