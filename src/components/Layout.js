@@ -18,8 +18,6 @@ export default function Layout(props){
                 <meta name="twitter:card" content="summary_large_image"/>
                 <meta name="twitter:title" content="MyPortfolio"/>
                 <meta name="twitter:creator" content="@Roderix78"/>
-
-                <link rel="icon" href="/favicon.ico"/>
             </Head>
             <Navbar/>
             <main className='container py-4'>

@@ -11,6 +11,7 @@ class MyDocument extends Document {
         return (
             <Html>
                 <Head>
+                
                     <script
                         dangerouslySetInnerHTML={{
                             __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -20,6 +21,7 @@ class MyDocument extends Document {
                             })(window,document,'script','dataLayer','${GTM_ID}');`,
                         }}
                     />
+                    <link rel="icon" href="https://tjhonnar.ga/favicon.ico"/>
                 </Head>
                 <body>
                 <noscript

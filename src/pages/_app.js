@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
 import {useRouter, Router} from 'next/router';
-import 'bootswatch/dist/darkly/bootstrap.min.css';
+import 'bootswatch/dist/lux/bootstrap.min.css';
 
 export default function MyApp({ Component, pageProps }) {
   const router = useRouter();
